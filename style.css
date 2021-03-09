@@ -241,11 +241,11 @@ section.timeline-outer {
   margin: 20%;
 }
 .card0 {
-  background: url("samurai2.jpg") center center no-repeat;
+  background: url("samurai3.jpg") center center no-repeat;
   background-size: 400px;
 }
 .card0:hover {
-  background: url("samurai2.jpg") right no-repeat;
+  background: url("samurai3.jpg") right no-repeat;
   background-size: 550px;
 }
 
