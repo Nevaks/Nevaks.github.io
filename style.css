@@ -318,4 +318,7 @@ section.timeline-outer {
     margin-right: 0;
     font-weight: 600;
   }
+  .card {
+    margin: 20% auto;
+  }
 }
